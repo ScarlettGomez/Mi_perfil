@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(25, 147, 218);
+    font-family: 'Mukta', sans-serif;
+}
+#nombre {
+    background-color: teal;
+}
+#titulo {
+    color: white;
+    text-align: center;
+}
+#fotoPerfil {
+    margin: auto;
+}
+section {
+    background-color: rgba(11, 110, 52, 0.616);
+    color:white;
+}
+nav ul {
+    list-style: none;  
+    background-color: rgb(123, 177, 43);
+}
+nav ul li {
+    display: inline-block;  
+    width: 32%;
+}
